@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">Name: %s</string>
+    <string name="id">Id: %s</string>
+    <string name="type">Type: %s</string>
+    <string name="year">Year: %s</string>
+    <string name="remove">Remove</string>
+    <string name="update">Update</string>
+    <string name="name_text">Name</string>
+    <string name="type_text">Type</string>
+    <string name="year_text">Year</string>
+    <string name="create">Create</string>
+</resources>
